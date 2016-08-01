@@ -1,0 +1,16 @@
+ID;Name;x_Coord;y_Coord
+A;Burger Palace;-0.93;-0.95
+B;Pizza Rica;0.57;1.89
+C;China Kitchen;1.57;-1.95
+D;Tacos4Less;-1.14;-0.15
+E;Night Brunch;-0.62;-0.07
+F;BBQ Outlet;1.47;-0.15
+G;Steak Shanty;-1.16;1.05
+H;Seafood O'Malleys;-1.09;0.12
+I;Mambo Grille;1.09;-1.15
+J;El Veganio;-0.11;-0.26
+K;Hipsters Only;-0.29;0.87
+L;Doc Cajun's Shrimperia;-1.78;-0.42
+M;Just Mushrooms;-1.09;0.66
+N;Ghana-to-go;1.04;2.13
+O;Derelicte;0.24;1.23
